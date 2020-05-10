@@ -1,0 +1,85 @@
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "sB8-QM-rqk"; */
+"sB8-QM-rqk.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "月"; ObjectID = "2VA-Gx-U4d"; */
+"2VA-Gx-U4d.text" = "月";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "3Uz-XU-7xn"; */
+"3Uz-XU-7xn.title" = "Profile";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "4eN-Dj-e7D"; */
+"4eN-Dj-e7D.text" = "name";
+
+/* Class = "UINavigationItem"; title = "Edit"; ObjectID = "4JS-lF-wUO"; */
+"4JS-lF-wUO.title" = "Edit";
+
+/* Class = "UITableViewSection"; headerTitle = "Profile"; ObjectID = "6Nm-5T-idd"; */
+"6Nm-5T-idd.headerTitle" = "Profile";
+
+/* Class = "UIBarButtonItem"; title = "設定"; ObjectID = "8lt-mH-kKb"; */
+"8lt-mH-kKb.title" = "设定";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "8S7-Z0-MP6"; */
+"8S7-Z0-MP6.text" = "Date";
+
+/* Class = "UILabel"; text = "present"; ObjectID = "27u-hI-aac"; */
+"27u-hI-aac.text" = "present";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "98K-dM-GyC"; */
+"98K-dM-GyC.placeholder" = "Year";
+
+/* Class = "UINavigationItem"; title = "Birthday List"; ObjectID = "cA0-9B-mC7"; */
+"cA0-9B-mC7.title" = "Birthday List";
+
+/* Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "Eep-kE-oYb"; */
+"Eep-kE-oYb.headerTitle" = "Name";
+
+/* Class = "UITextField"; placeholder = "Day"; ObjectID = "gcf-nC-4Vl"; */
+"gcf-nC-4Vl.placeholder" = "Day";
+
+/* Class = "UITableViewSection"; headerTitle = "Present"; ObjectID = "gw3-ac-NU7"; */
+"gw3-ac-NU7.headerTitle" = "Present";
+
+/* Class = "UILabel"; text = "日"; ObjectID = "HQh-ot-Cac"; */
+"HQh-ot-Cac.text" = "号";
+
+/* Class = "UITableViewSection"; headerTitle = "Birthday"; ObjectID = "JKM-xm-hHP"; */
+"JKM-xm-hHP.headerTitle" = "Birthday";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "KXI-40-KI2"; */
+"KXI-40-KI2.text" = "date";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "LD5-5d-dGK"; */
+"LD5-5d-dGK.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "Ls9-wr-bCf"; */
+"Ls9-wr-bCf.text" = "Age";
+
+/* Class = "UILabel"; text = "年"; ObjectID = "Mrf-iH-zwg"; */
+"Mrf-iH-zwg.text" = "年";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "NZW-Oe-mRZ"; */
+"NZW-Oe-mRZ.text" = "Name";
+
+/* Class = "UILabel"; text = "テーマ"; ObjectID = "SDZ-IG-H4u"; */
+"SDZ-IG-H4u.text" = "种样式";
+
+/* Class = "UITextField"; placeholder = "Month"; ObjectID = "tZE-oY-cX0"; */
+"tZE-oY-cX0.placeholder" = "Month";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "VQx-45-rJ6"; */
+"VQx-45-rJ6.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "Present"; ObjectID = "Znd-j7-ffZ"; */
+"Znd-j7-ffZ.placeholder" = "Present";
+
+/**/
+"MZV-M5-GIh.title" = "編集";
+
+"CM0-3t-0Mc.title" = "保存";
+
+"Bmv-CJ-IaX.text" = "通知";
+
+"2ZW-Uo-m3j.text" = "帮助";
+
+"dPD-TA-HTX.title" = "twitter";

@@ -1,0 +1,104 @@
+
+/* Class = "UILabel"; text = "present"; ObjectID = "27u-hI-aac"; */
+"27u-hI-aac.text" = "Hadiah";
+
+/* Class = "UILabel"; text = " "; ObjectID = "2VA-Gx-U4d"; */
+"2VA-Gx-U4d.text" = " ";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "3Uz-XU-7xn"; */
+"3Uz-XU-7xn.title" = "Profil";
+
+/* Class = "UINavigationItem"; title = "Edit"; ObjectID = "4JS-lF-wUO"; */
+"4JS-lF-wUO.title" = "Edit";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "4eN-Dj-e7D"; */
+"4eN-Dj-e7D.text" = "Nama";
+
+/* Class = "UITableViewSection"; headerTitle = "Profile"; ObjectID = "6Nm-5T-idd"; */
+"6Nm-5T-idd.headerTitle" = "Profil";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "8S7-Z0-MP6"; */
+"8S7-Z0-MP6.text" = "Tanggal";
+
+/* Class = "UIBarButtonItem"; title = "Setting"; ObjectID = "8lt-mH-kKb"; */
+"8lt-mH-kKb.title" = "Pengaturan";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "98K-dM-GyC"; */
+"98K-dM-GyC.placeholder" = "Tahun";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "Bmv-CJ-IaX"; */
+"Bmv-CJ-IaX.text" = "Pemberitahuan";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "CM0-3t-0Mc"; */
+"CM0-3t-0Mc.title" = "Simpan";
+
+/* Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "Eep-kE-oYb"; */
+"Eep-kE-oYb.headerTitle" = "Nama";
+
+/* Class = "UILabel"; text = " "; ObjectID = "HQh-ot-Cac"; */
+"HQh-ot-Cac.text" = " ";
+
+/* Class = "UITableViewSection"; headerTitle = "Birthday"; ObjectID = "JKM-xm-hHP"; */
+"JKM-xm-hHP.headerTitle" = "Ultah";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "KXI-40-KI2"; */
+"KXI-40-KI2.text" = "Tanggal";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "LD5-5d-dGK"; */
+"LD5-5d-dGK.placeholder" = "Nama";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "Ls9-wr-bCf"; */
+"Ls9-wr-bCf.text" = "Umur";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "MZV-M5-GIh"; */
+"MZV-M5-GIh.title" = "Edit";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Mrf-iH-zwg"; */
+"Mrf-iH-zwg.text" = " ";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "NZW-Oe-mRZ"; */
+"NZW-Oe-mRZ.text" = "Nama";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "SDZ-IG-H4u"; */
+"SDZ-IG-H4u.text" = "Warna";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "VQx-45-rJ6"; */
+"VQx-45-rJ6.text" = "Titel";
+
+/* Class = "UITextField"; placeholder = "Present"; ObjectID = "Znd-j7-ffZ"; */
+"Znd-j7-ffZ.placeholder" = "Hadiah";
+
+/* Class = "UINavigationItem"; title = "Birthday List"; ObjectID = "cA0-9B-mC7"; */
+"cA0-9B-mC7.title" = "Daftar ultah";
+
+/* Class = "UITextField"; placeholder = "Day"; ObjectID = "gcf-nC-4Vl"; */
+"gcf-nC-4Vl.placeholder" = "Hari";
+
+/* Class = "UITableViewSection"; headerTitle = "Present"; ObjectID = "gw3-ac-NU7"; */
+"gw3-ac-NU7.headerTitle" = "Hadiah";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "puq-eH-UvA"; */
+"puq-eH-UvA.text" = "Titel";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "sB8-QM-rqk"; */
+"sB8-QM-rqk.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextField"; placeholder = "Month"; ObjectID = "tZE-oY-cX0"; */
+"tZE-oY-cX0.placeholder" = "Bulan";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "VQx-45-rJ6"; */
+"VQx-45-rJ6.text" = "Titel";
+
+/* Class = "UITextField"; placeholder = "Present"; ObjectID = "Znd-j7-ffZ"; */
+"Znd-j7-ffZ.placeholder" = "Hadiah";
+
+/**/
+"MZV-M5-GIh.title" = "Edit";
+
+"CM0-3t-0Mc.title" = "Simpan";
+
+"Bmv-CJ-IaX.text" = "Pemberitahuan";
+
+"2ZW-Uo-m3j.text" = "Bantuan";
+
+"dPD-TA-HTX.title" = "Twitter resmi";

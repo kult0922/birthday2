@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  birthday2
+
+  Created by 栗崎一真 on 2018/07/18.
+  Copyright © 2018年 栗崎一真. All rights reserved.
+*/
+"Jan." = "Jan.";
+"Feb." = "Feb.";
+"Mar." = "Mar.";
+"Apr." = "Apr.";
+"May." = "May.";
+"Jun." = "Jun.";
+"Jul." = "Jul.";
+"Aug." = "Aug.";
+"Sep." = "Sep.";
+"Oct." = "Oct.";
+"Nov." = "Nov.";
+"Dec." = "Dec.";
+
+"ocean" = "ocean";
+"forest" = "forest";
+"maple" = "maple";
+
+" " = " ";
+"" = "";
+"age:" = "age:";
+
+"Happy Birthday" = "Today is %@'s Birthday";
+
+"birthday coming soon" = "birthday coming soon";
+
+"one days ago" = "%@'s birthday is tomorrow!";
+
+"two days ago" = "%@'s birthday is 2 days later!";
+
+"three days ago" = "%@'s birthday is 3 days later!";
+
+"seven days ago" = "%@'s birthday is 7 days later!";
+
+"that day" = "that day";
+
+"3 days ago" = "3 days ago";
+
+"7 days ago" = "7 days ago";
+
+"previous day" = "previous day";
+
+"2 days ago" = "2 days ago";
+
+"birthday people" = "birthday people";
+
+"leftDay" = "%d more days";
+
+"noti_day" = "notification day";
+
+"noti_time" = "notification time";
+
+"dayDisp" = "%@";
+
+"notiErrMessage" = "notification not allawed!";
+
+"helpTitle_1" = "There are not notifications";
+
+"helpTitle_2" = "contact developer";
+
+"helpText_1" = "Notifications may be not allawed. please allaw this app notifications at Settings.";
+
+"year_ext" = "/";
+"month_ext" = "/";
+"day_ext" = "";
+"today_is_birthday" = "today";

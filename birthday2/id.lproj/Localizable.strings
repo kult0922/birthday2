@@ -1,0 +1,78 @@
+/* 
+  Localizable.strings
+  birthday2
+
+  Created by 栗崎一真 on 2018/07/18.
+  Copyright © 2018年 栗崎一真. All rights reserved.
+*/
+
+
+"Jan." = "Januari";
+"Feb." = "Februari";
+"Mar." = "Maret";
+"Apr." = "April";
+"May." = "Mei";
+"Jun." = "Juni";
+"Jul." = "Juli";
+"Aug." = "Agustus";
+"Sep." = "September";
+"Oct." = "Oktober";
+"Nov." = "November";
+"Dec." = "Desember";
+
+"ocean" = "laut";
+"forest" = "hutan";
+"maple" = "maple";
+
+" " = " ";
+"" = "tahun";
+"age:" = "";
+
+"Happy Birthday" = "Hari ini adalah hari ultah %@!";
+
+"'s birthday" = "'s birthday";
+
+"birthday coming soon" = "Sebentar lagi ada yang ultah loh!";
+
+"one days ago" = "Besok %@ ultah!";
+
+"two days ago" = "2 hari lagi ultahnya %@!";
+
+"three days ago" = "3 hari lagi ultahnya %@!";
+
+"seven days ago" = "7 hari lagi ultahnya %@!";
+
+"that day" = "Hari itu";
+
+"3 days ago" = "3 hari yang lalu";
+
+"7 days ago" = "7 hari yang lalu";
+
+"previous day" = "hari sebelumnya";
+
+"2 days ago" = "2 hari yang lalu";
+
+"birthday people" = "Daftar ultah";
+
+"leftDay" = "Tinggal %d hari lagi";
+
+"noti_day" = "Hari pemberitahuan";
+
+"noti_time" = "Waktu pemberitahuan";
+
+"dayDisp" = "";
+
+"notiErrMessage" = "Fungsi pemberitahuan tidak diperbolehkan";
+
+"helpTitle_1" = "Pemberitahuan tidak datang";
+
+"helpTitle_2" = "Kontak pengembang aplikasi";
+
+"helpText_1" = "Ada kemungkinan fungsi pemberitahuan tidak diperbolehkan. Mohon pergi ke Layar Rumah -> Pengaturan -> \"Daftar Ultah\" dan izinkan fungsi pemberitahuan untuk aplikasi ini";
+
+"helpText_2" = "Pemberitahuan tidak datang";
+
+"year_ext" = "/";
+"month_ext" = "/";
+"day_ext" = "";
+"today_is_birthday" = "hari ini";

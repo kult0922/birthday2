@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  birthday2
+
+  Created by 栗崎一真 on 2018/07/18.
+  Copyright © 2018年 栗崎一真. All rights reserved.
+*/
+"Jan." = "一月";
+"Feb." = "二月";
+"Mar." = "三月";
+"Apr." = "四月";
+"May." = "五月";
+"Jun." = "六月";
+"Jul." = "七月";
+"Aug." = "八月";
+"Sep." = "九月";
+"Oct." = "十月";
+"Nov." = "十一月";
+"Dec." = "十二月";
+
+"ocean" = "大海";
+"forest" = "森林";
+"maple" = "枫";
+
+" " = "日";
+"" = "岁";
+"age:" = "";
+
+"Happy Birthday" = "%@的生日";
+
+"birthday coming soon" = "马上生日!";
+
+"one days ago" = "明天是%@的生日";
+
+"two days ago" = "%@的生日两天前";
+
+"three days ago" = "%@的生日三天前";
+
+"seven days ago" = "%@的生日七天前";
+
+"that day" = "当天";
+
+"3 days ago" = "三天前";
+
+"7 days ago" = "七天前";
+
+"previous day" = "前天";
+
+"2 days ago" = "两天前";
+
+"birthday people" = "生日清单";
+
+"leftDay" = "剩下%d天";
+
+"noti_day" = "通知日";
+
+"noti_time" = "通知问时";
+
+"dayDisp" = "日";
+
+"notiErrMessage" = "notification not allawed!";
+
+"helpTitle_1" = "There are not notifications";
+
+"helpTitle_2" = "contact developer";
+
+"helpText_1" = "Notifications may be not allawed. please allaw this app notifications at Settings.";
+
+"year_ext" = "/";
+"month_ext" = "/";
+"day_ext" = "";
+"today_is_birthday" = "今天";

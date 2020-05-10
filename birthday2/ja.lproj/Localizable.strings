@@ -1,0 +1,74 @@
+/* 
+  Localizable.strings
+  birthday2
+
+  Created by 栗崎一真 on 2018/07/18.
+  Copyright © 2018年 栗崎一真. All rights reserved.
+*/
+"Jan." = " 1月";
+"Feb." = " 2月";
+"Mar." = " 3月";
+"Apr." = " 4月";
+"May." = " 5月";
+"Jun." = " 6月";
+"Jul." = " 7月";
+"Aug." = " 8月";
+"Sep." = " 9月";
+"Oct." = " 10月";
+"Nov." = " 11月";
+"Dec." = " 12月";
+
+"ocean" = "オーシャン";
+"forest" = "フォレスト";
+"maple" = "メープル";
+
+" " = "日";
+"" = "歳";
+"age:" = "";
+
+"Happy Birthday" = "%@さんの誕生日です";
+
+"birthday coming soon" = "もうすぐ誕生日!";
+
+"one days ago" = "明日は%@さんの誕生日です！";
+
+"two days ago" = "%@さんの誕生日2日前です！";
+
+"three days ago" = "%@さんの誕生日3日前です！";
+
+"seven days ago" = "%@さんの誕生日7日前です！";
+
+"that day" = "当日";
+
+"3 days ago" = "3日前";
+
+"7 days ago" = "7日前";
+
+"previous day" = "前日";
+
+"2 days ago" = "2日前";
+
+"birthday people" = "誕生日リスト";
+
+"leftDay" = "あと%d日";
+
+"noti_day" = "通知日";
+
+"noti_time" = "通知時刻";
+
+"dayDisp" = "日";
+
+"notiErrMessage" = "通知が許可されていません!";
+
+"helpTitle_1" = "通知がこない";
+
+"helpTitle_2" = "開発者に連絡";
+
+"helpText_1" = "通知が許可されていない可能性があります.設定->誕生日リストと進み通知を許可してください";
+
+"helpText_2" = "通知がこない";
+
+"year_ext" = " 年 ";
+"month_ext" = " 月 ";
+"day_ext" = " 日";
+"today_is_birthday" = "今日";

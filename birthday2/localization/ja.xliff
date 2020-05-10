@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="birthday2/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.3" build-num="9E145"/>
+    </header>
+    <body>
+      <trans-unit id="QwN-Ci-FTP.title">
+        <source>Birthday List</source>
+        <target>Birthday List</target>
+        <note>Class = "UINavigationItem"; title = "Birthday List"; ObjectID = "QwN-Ci-FTP";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="birthday2/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.3" build-num="9E145"/>
+    </header>
+    <body>
+      <trans-unit id="2VA-Gx-U4d.text">
+        <source>月</source>
+        <target>月</target>
+        <note>Class = "UILabel"; text = "月"; ObjectID = "2VA-Gx-U4d";</note>
+      </trans-unit>
+      <trans-unit id="3Uz-XU-7xn.title">
+        <source>Profile</source>
+        <target>Profile</target>
+        <note>Class = "UINavigationItem"; title = "Profile"; ObjectID = "3Uz-XU-7xn";</note>
+      </trans-unit>
+      <trans-unit id="4JS-lF-wUO.title">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Class = "UINavigationItem"; title = "Edit"; ObjectID = "4JS-lF-wUO";</note>
+      </trans-unit>
+      <trans-unit id="4eN-Dj-e7D.text">
+        <source>name</source>
+        <target>name</target>
+        <note>Class = "UILabel"; text = "name"; ObjectID = "4eN-Dj-e7D";</note>
+      </trans-unit>
+      <trans-unit id="6Nm-5T-idd.headerTitle">
+        <source>Profile</source>
+        <target>Profile</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Profile"; ObjectID = "6Nm-5T-idd";</note>
+      </trans-unit>
+      <trans-unit id="8S7-Z0-MP6.text">
+        <source>Date</source>
+        <target>Date</target>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "8S7-Z0-MP6";</note>
+      </trans-unit>
+      <trans-unit id="8lt-mH-kKb.title">
+        <source>設定</source>
+        <target>設定</target>
+        <note>Class = "UIBarButtonItem"; title = "設定"; ObjectID = "8lt-mH-kKb";</note>
+      </trans-unit>
+      <trans-unit id="27u-hI-aac.text">
+        <source>present</source>
+        <target>present</target>
+        <note>Class = "UILabel"; text = "present"; ObjectID = "27u-hI-aac";</note>
+      </trans-unit>
+      <trans-unit id="98K-dM-GyC.placeholder">
+        <source>Year</source>
+        <target>Year</target>
+        <note>Class = "UITextField"; placeholder = "Year"; ObjectID = "98K-dM-GyC";</note>
+      </trans-unit>
+      <trans-unit id="Eep-kE-oYb.headerTitle">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "Eep-kE-oYb";</note>
+      </trans-unit>
+      <trans-unit id="HQh-ot-Cac.text">
+        <source>日</source>
+        <target>日</target>
+        <note>Class = "UILabel"; text = "日"; ObjectID = "HQh-ot-Cac";</note>
+      </trans-unit>
+      <trans-unit id="JKM-xm-hHP.headerTitle">
+        <source>Birthday</source>
+        <target>Birthday</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Birthday"; ObjectID = "JKM-xm-hHP";</note>
+      </trans-unit>
+      <trans-unit id="KXI-40-KI2.text">
+        <source>date</source>
+        <target>date</target>
+        <note>Class = "UILabel"; text = "date"; ObjectID = "KXI-40-KI2";</note>
+      </trans-unit>
+      <trans-unit id="LD5-5d-dGK.placeholder">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "UITextField"; placeholder = "Name"; ObjectID = "LD5-5d-dGK";</note>
+      </trans-unit>
+      <trans-unit id="Ls9-wr-bCf.text">
+        <source>Age</source>
+        <target>Age</target>
+        <note>Class = "UILabel"; text = "Age"; ObjectID = "Ls9-wr-bCf";</note>
+      </trans-unit>
+      <trans-unit id="Mrf-iH-zwg.text">
+        <source>年</source>
+        <target>年</target>
+        <note>Class = "UILabel"; text = "年"; ObjectID = "Mrf-iH-zwg";</note>
+      </trans-unit>
+      <trans-unit id="NZW-Oe-mRZ.text">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "UILabel"; text = "Name"; ObjectID = "NZW-Oe-mRZ";</note>
+      </trans-unit>
+      <trans-unit id="SDZ-IG-H4u.text">
+        <source>テーマ</source>
+        <target>テーマ</target>
+        <note>Class = "UILabel"; text = "テーマ"; ObjectID = "SDZ-IG-H4u";</note>
+      </trans-unit>
+      <trans-unit id="VQx-45-rJ6.text">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "VQx-45-rJ6";</note>
+      </trans-unit>
+      <trans-unit id="Znd-j7-ffZ.placeholder">
+        <source>Present</source>
+        <target>Present</target>
+        <note>Class = "UITextField"; placeholder = "Present"; ObjectID = "Znd-j7-ffZ";</note>
+      </trans-unit>
+      <trans-unit id="cA0-9B-mC7.title">
+        <source>Birthday List</source>
+        <target>Birthday List</target>
+        <note>Class = "UINavigationItem"; title = "Birthday List"; ObjectID = "cA0-9B-mC7";</note>
+      </trans-unit>
+      <trans-unit id="gcf-nC-4Vl.placeholder">
+        <source>Day</source>
+        <target>Day</target>
+        <note>Class = "UITextField"; placeholder = "Day"; ObjectID = "gcf-nC-4Vl";</note>
+      </trans-unit>
+      <trans-unit id="gw3-ac-NU7.headerTitle">
+        <source>Present</source>
+        <target>Present</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Present"; ObjectID = "gw3-ac-NU7";</note>
+      </trans-unit>
+      <trans-unit id="tZE-oY-cX0.placeholder">
+        <source>Month</source>
+        <target>Month</target>
+        <note>Class = "UITextField"; placeholder = "Month"; ObjectID = "tZE-oY-cX0";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="birthday2/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.3" build-num="9E145"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>誕生日リスト</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
